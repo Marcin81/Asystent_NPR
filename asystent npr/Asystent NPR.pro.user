@@ -1,0 +1,2340 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">Asystent NPR.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">Asystent NPR</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">qt4.6beta_static_release Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+   <value key="buildDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-qt4.6beta_static_release Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">10</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-qt4.6beta_static_release Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">8</value>
+   <value key="buildDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-release_4.6 Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="QtVersionId" type="int">6</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-release_4.6 Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <value key="QtVersionId" type="int">6</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+   <value key="buildDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="clearSystemEnvironment" type="bool">false</value>
+   <value key="useShadowBuild" type="bool">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-release_4.6_win</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6_win</value>
+   <value key="QtVersionId" type="int">6</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+   <value key="buildDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="clearSystemEnvironment" type="bool">false</value>
+   <value key="useShadowBuild" type="bool">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">about.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_about.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">viewwidget.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_viewwidget.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">ui_mainwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_ui_mainwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr/Asystent NPR.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">macx-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="buildConfiguration" type=""></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mainwindow.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_mainwindow.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">hidetoolwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_hidetoolwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">moveablepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_moveablepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphbase.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphbase.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mywindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mywindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">imagepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_imagepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraph.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraph.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphsupplement.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphsupplement.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">qmydecompressor.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_qmydecompressor.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">about.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_about.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">viewwidget.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_viewwidget.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">ui_mainwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_ui_mainwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">myviewwidget.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_myviewwidget.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">qmydecompressor.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_qmydecompressor.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr/Asystent NPR.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">macx-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug_and_release</value>
+    <value type="QString">CONFIG+=static</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <valuelist key="qmakeArgs" type="QVariantList">
+    <value type="QString">CONFIG+=static</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">release</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">release</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mainwindow.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_mainwindow.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">hidetoolwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_hidetoolwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">moveablepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_moveablepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphbase.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphbase.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mywindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mywindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">imagepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_imagepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraph.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraph.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphsupplement.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphsupplement.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-qt4.6beta_static_release Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">myviewwidget.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_myviewwidget.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">qmydecompressor.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_qmydecompressor.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">about.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_about.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">viewwidget.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_viewwidget.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">ui_mainwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_ui_mainwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">myviewwidget.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_myviewwidget.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">qmydecompressor.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_qmydecompressor.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr/Asystent NPR.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">macx-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=release</value>
+    <value type="QString">CONFIG+=static</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <valuelist key="qmakeArgs" type="QVariantList">
+    <value type="QString">CONFIG+=static</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mainwindow.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_mainwindow.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">hidetoolwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_hidetoolwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">moveablepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_moveablepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphbase.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphbase.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mywindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mywindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">imagepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_imagepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraph.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraph.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphsupplement.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphsupplement.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6 Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-ABo5Ac/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-WjrOe4/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-S7GrZZ/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">about.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_about.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">viewwidget.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_viewwidget.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">ui_mainwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_ui_mainwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">myviewwidget.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_myviewwidget.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6_win</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr/Asystent NPR.pro</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=release</value>
+    <value type="QString">CONFIG+=static</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-x-g++</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <valuelist key="qmakeArgs" type="QVariantList">
+    <value type="QString">CONFIG+=static</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-x-g++</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mainwindow.ui</value>
+    <value type="QString">-o</value>
+    <value type="QString">ui_mainwindow.h</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/uic</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">hidetoolwindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_hidetoolwindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">moveablepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_moveablepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphbase.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphbase.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mywindow.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mywindow.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">imagepoint.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_imagepoint.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraph.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraph.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">mygraphsupplement.h</value>
+    <value type="QString">-o</value>
+    <value type="QString">moc_mygraphsupplement.cpp</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin/moc</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release_4.6_win-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-sjGsHc/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DISPLAY=/tmp/launch-wK5Srt/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.6beta_mac/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.6beta_mac</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-xLVZiC/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Release</value>
+   <value type="QString">release_4.6 Debug</value>
+   <value type="QString">release_4.6 Release</value>
+   <value type="QString">qt4.6beta_static_release Debug</value>
+   <value type="QString">qt4.6beta_static_release Release</value>
+   <value type="QString">release_4.6_win</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">ui_about.h</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">ui_viewwidget.h</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep10</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_ui_mainwindow.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep11</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_myviewwidget.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep12</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_qmydecompressor.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep13</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep14</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep2</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">ui_mainwindow.h</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep3</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_hidetoolwindow.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep4</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_moveablepoint.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep5</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_mygraphbase.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep6</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_mywindow.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep7</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_imagepoint.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep8</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_mygraph.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep9</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">moc_mygraphsupplement.cpp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">projectexplorer.processstep</value>
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">UTF-8</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

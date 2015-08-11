@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/thermometer-48x48.png</file>
+        <file>images/feel-sick-48x48.png</file>
+        <file>images/Sweet-angel.png</file>
+        <file>images/follow-the-sign-48x48.png</file>
+        <file>images/Pudently.png</file>
+        <file>images/ThumbsUp.png</file>
+        <file>images/Whoa-48x48.png</file>
+        <file>images/ate-someting-bad-48x48.png</file>
+        <file>images/h3_48.png</file>
+        <file>images/Sick.png</file>
+        <file>images/I-am-tired-48x48.png</file>
+        <file>images/Cool.png</file>
+        <file>images/blood-48x48.png</file>
+        <file>translations/qt_pl.qm</file>
+        <file>translations/qt_uk.qm</file>
+        <file>images/Mr.Zhong-awkward-s_48.png</file>
+        <file>images/Mr.Zhong-cute-s_48.png</file>
+        <file>images/Mr.Zhong-huffy-s_48.png</file>
+        <file>images/Mr.Zhong-laughing-s_48.png</file>
+        <file>images/Mr.Zhong-punished-s_48.png</file>
+        <file>images/Mr.Zhong-suffering-s_48.png</file>
+        <file>images/BlankBlue48.png</file>
+        <file>images/BlankGreen48.png</file>
+        <file>images/BlankOlive48.png</file>
+        <file>images/BlankYellow48.png</file>
+        <file>images/CyanFull.png</file>
+        <file>images/BlueFull.png</file>
+        <file>images/YellowFull.png</file>
+        <file>images/BrownFull.png</file>
+        <file>images/WhiteFull.png</file>
+        <file>images/OrangeFull.png</file>
+        <file>images/RedFull.png</file>
+        <file>images/WhiteEmpty.png</file>
+        <file>images/PurpleFull.png</file>
+        <file>images/PurpleEmpty.png</file>
+        <file>images/Berry.png</file>
+        <file>translations/metody_naturalne_pl.qm</file>
+        <file>translations/metody_naturalne_uk.qm</file>
+        <file>help_pl.tar.bz2</file>
+        <file>help_uk.tar.bz2</file>
+    </qresource>
+</RCC>
