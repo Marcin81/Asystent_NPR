@@ -30,7 +30,6 @@ class QActionGroup;
 class QMyDecompressor;
 // jak skonczysz program dodaj qsettings i zapamietywanie ustawien
 // oraz pytanie o zapis przy zamykaniu zakladku lub programu
-// zmien biblioteke do kompresji na libbzip2
 
 typedef boost::tuple<QGraphicsRectItem*, QGraphicsRectItem* > RectOFFertilities;
 typedef boost::tuple< RectOFFertilities /* rectMaybeFertility*/,
@@ -84,12 +83,15 @@ protected slots:
   void configMenuScale( const int& pageIndex );
   void showAboutAction();
   void updateTranslation();
-	void showHelpAction();
+  void showHelpAction();
+  #ifndef Q_WS_WIN
   void showHelpDecompressError();
   void deleteThread();
   void deleteHelpArchive();
-  void changeStyle();
+  #endif
   void showHelpAssistant();
+
+  void changeStyle();
   void showLanguageMenu();
   void updateTabTitle();
 protected:
@@ -128,7 +130,9 @@ public slots:
   void showAbout();
 
   const QLocale getLocale() const;
-	void help();
+  #ifndef Q_WS_WIN
+     void help();
+  #endif
 signals:
   void languageChange();
   void beforeClose();

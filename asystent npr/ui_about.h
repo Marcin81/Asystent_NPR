@@ -1,16 +1,14 @@
 /********************************************************************************
 ** Form generated from reading UI file 'about.ui'
 **
-** Created: Tue Oct 27 10:27:13 2009
+** Created: Tue Nov 10 23:43:10 2009
 **      by: Qt User Interface Compiler version 4.6.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
-
 ** License: GPL 
 ** Owner: Marcin Brysz
 ** Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
 ** Version: 1.3 Beta
-
 ********************************************************************************/
 
 #ifndef UI_ABOUT_H
@@ -96,7 +94,7 @@ public:
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Lucida Grande'; font-size:13pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img src=\":/images/Berry.png\" /><span style=\" font-size:24pt;\"> </span><span style=\" font-size:24pt; font-weight:600; font-style:italic;\">Asystent NPR</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt;\">Wersja: 1.3 Beta</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt;\">Wersja: 1.4 Beta</span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt;\">"
                         "Autor: Marcin Brysz</span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt;\">E-mail: </span><a href=\"unemployed81@gmail.com\"><span style=\" text-decoration: underline; color:#0000ff;\">unemployed81@gmail.com</span></a></p>\n"

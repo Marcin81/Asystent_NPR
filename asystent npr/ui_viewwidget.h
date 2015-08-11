@@ -1,16 +1,14 @@
 /********************************************************************************
 ** Form generated from reading UI file 'viewwidget.ui'
 **
-** Created: Tue Oct 27 10:27:13 2009
+** Created: Tue Nov 10 23:43:10 2009
 **      by: Qt User Interface Compiler version 4.6.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
-
 ** License: GPL 
 ** Owner: Marcin Brysz
 ** Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
 ** Version: 1.3 Beta
-
 ********************************************************************************/
 
 #ifndef UI_VIEWWIDGET_H

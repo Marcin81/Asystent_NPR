@@ -1,11 +1,5 @@
 # -------------------------------------------------
 # Project created by QtCreator 2009-05-27T19:43:30
-
-# License: GPL 
-# Owner: Marcin Brysz
-# Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
-# Version: 1.3 Beta
-
 # -------------------------------------------------
 CONFIG += precompile_header \
     qt \
@@ -34,9 +28,7 @@ SOURCES += main.cpp \
     interpretationnpr.cpp \
     interpretationbytemperature.cpp \
     interpretationbymucus.cpp \
-    myviewwidget.cpp \
-    qtarbzip2decompressor.cpp \
-    qmydecompressor.cpp
+    myviewwidget.cpp
 
 # moc_hidetoolwindow.cpp \
 # moc_moveablepoint.cpp \
@@ -61,10 +53,15 @@ HEADERS += moveablepoint.h \
     myviewwidget.h \
     ui_viewwidget.h \
     ui_mainwindow.h \
-    ui_about.h \
-    qmydecompressor.h \
-    qtarbzip2decompressor.h
-unix { 
+    ui_about.h
+
+unix {
+    HEADERS += qmydecompressor.h \
+      qtarbzip2decompressor.h
+
+    SOURCES += qtarbzip2decompressor.cpp \
+      qmydecompressor.cpp
+
     TARGET = "Asystent NPR"
     INCLUDEPATH += /opt/local/include
     LIBS += /opt/local/lib/libtar.a
@@ -73,31 +70,15 @@ unix {
 
 mac { 
     TARGET = "Asystent NPR"
-#    INCLUDEPATH += /opt/local/include
-#    LIBS += /opt/local/lib/libtar.a
- #   LIBS += /opt/local/lib/libbz2.a
 }
 
 win32 { 
     # unix { #dla crossCompile
-    TARGET = "Asystent_NPR.exe"
-    INCLUDEPATH += /opt/local/include
-    
-    # INCLUDEPATH += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/include
-    # QMAKE_LIBS += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/lib
-    # INCLUDEPATH += Z:\boost-trunk_53033
-    # LIBS += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/lib/libQtCore.a
-    # LIBS += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/lib/libQtGui.a
-    # LIBS += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/lib/libQtWebKit.a
-    LIBS += /Users/marcinbrysz/crossCompileWin/Dev-CPP/lib/libzzip.a
+    TARGET = "Asystent_NPR"
+    INCLUDEPATH += c:\zrodla\boost_1_40_0 
+    DEFINES += QT_DLL
 }
 
-# DEFINES += QT_DLL
-# INCLUDEPATH += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/include
-# INCLUDEPATH += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/include/Qt
-# INCLUDEPATH += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/include/QtCore
-# INCLUDEPATH += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/include/QtGui
-# INCLUDEPATH += /Users/marcinbrysz/crossCompileWin/qt4.6.0-beta1/include/QtWebKit
 RESOURCES += draggableicons.qrc
 FORMS += mainwindow.ui \
     viewwidget.ui \

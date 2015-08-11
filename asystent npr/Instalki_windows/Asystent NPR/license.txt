@@ -1,0 +1,4 @@
+"Asystent NPR" jest aplikacj¹ rozpowszechnian¹ za darmo i przeznaczon¹ do wspomagania naturalnego planowania rodziny.
+Autor nie bierze odpowiedzialnoœci za b³êdy dzia³ania programu jak równie¿ interpretacje wyników wykresu metod¹ termiczno-objawowego wykonywan¹ przez program.
+Stosowanie NPR nie daje 100% pewnoœci poczêcia lub niepoczêcia dziecka, dlatego u¿ytkownik korzysta z programu na w³asn¹ odpowiedzialnoœæ i nie bêdzie mia³ jakichkolwiek roszczeñ wobec autora z powodu wykorzystywania jego aplikacji.
+Instalacja oraz dystrybucja programu jest równoznaczna z akceptacj¹ treœci tej licencji.

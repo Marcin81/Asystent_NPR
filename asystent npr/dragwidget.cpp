@@ -4,7 +4,6 @@ Owner: Marcin Brysz
 Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
 Version: 1.3 Beta
 */
-
 #include <QtGui/QtGui>
 #include "dragwidget.h"
 
@@ -36,7 +35,18 @@ void DragWidget::addLabels( const QString& text, const QString& pixmapPath,
     label->move( startX + skipX, startY + skipY );
     label->setAlignment( Qt::AlignLeft | Qt::AlignVCenter );
     label->setFont( font );
-    label->setFixedWidth( label->width() + ( width()/4) );
+   /* #ifdef Q_WS_WIN
+    setMinimumSize((label->width()*4 )+100, 200);
+    label->setFixedWidth( (label->width()*4 )+100 );
+    #else
+    label->setFixedWidth( label->width() + ( width()/2) + 50 );
+    #endif*/
+    #ifdef Q_WS_MAC
+    label->setFixedWidth( label->width() + ( width()/2) + 50 );
+    #else
+    setMinimumSize((label->width()*4 )+100, 200);
+    label->setFixedWidth( (label->width()*4 )+100 );
+    #endif
     label->show();
     label->setAccessibleDescription( text );
     label->setScaledContents( true );

@@ -5,6 +5,7 @@ Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
 Version: 1.3 Beta
 */
 #include <QtGui/QPainter>
+
 #include "edge.h"
 
 EdgeBase::EdgeBase( boost::shared_ptr<QPointF> sourceNode,

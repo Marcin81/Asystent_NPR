@@ -1,11 +1,10 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'imagepoint.h'
 **
-** Created: Tue Oct 27 10:27:14 2009
+** Created: Tue Nov 10 23:43:10 2009
 **      by: The Qt Meta Object Compiler version 62 (Qt 4.6.0)
 **
 ** WARNING! All changes made in this file will be lost!
-
 ** License: GPL 
 ** Owner: Marcin Brysz
 ** Contact: unemployed81@gmail.com / bryszmarcin@gmail.com

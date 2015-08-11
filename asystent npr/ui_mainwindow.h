@@ -1,16 +1,14 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created: Tue Oct 27 10:27:13 2009
+** Created: Tue Nov 10 23:43:10 2009
 **      by: Qt User Interface Compiler version 4.6.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
-
 ** License: GPL 
 ** Owner: Marcin Brysz
 ** Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
 ** Version: 1.3 Beta
-
 ********************************************************************************/
 
 #ifndef UI_MAINWINDOW_H
@@ -34,7 +32,7 @@ QT_BEGIN_NAMESPACE
 class Ui_MainWindow
 {
 public:
-    QAction *actionTemperature;
+    QAction *actionMucus;
     QAction *actionFeeling;
     QAction *actionRemnant;
     QAction *actionZoomIn;
@@ -72,6 +70,7 @@ public:
     QAction *actionPlastiqueStyle;
     QAction *actionWindowsNormalStyle;
     QAction *actionSaveAs;
+    QAction *actionTemperature;
     QWidget *centralwidget;
     QHBoxLayout *horizontalLayout_2;
     QTabWidget *tabWidget;
@@ -161,10 +160,10 @@ public:
         MainWindow->setWindowIcon(icon);
         MainWindow->setIconSize(QSize(48, 48));
         MainWindow->setUnifiedTitleAndToolBarOnMac(false);
-        actionTemperature = new QAction(MainWindow);
-        actionTemperature->setObjectName(QString::fromUtf8("actionTemperature"));
-        actionTemperature->setCheckable(true);
-        actionTemperature->setChecked(false);
+        actionMucus = new QAction(MainWindow);
+        actionMucus->setObjectName(QString::fromUtf8("actionMucus"));
+        actionMucus->setCheckable(true);
+        actionMucus->setChecked(false);
         actionFeeling = new QAction(MainWindow);
         actionFeeling->setObjectName(QString::fromUtf8("actionFeeling"));
         actionFeeling->setCheckable(true);
@@ -271,6 +270,9 @@ public:
         actionSaveAs = new QAction(MainWindow);
         actionSaveAs->setObjectName(QString::fromUtf8("actionSaveAs"));
         actionSaveAs->setEnabled(true);
+        actionTemperature = new QAction(MainWindow);
+        actionTemperature->setObjectName(QString::fromUtf8("actionTemperature"));
+        actionTemperature->setCheckable(true);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         sizePolicy.setHeightForWidth(centralwidget->sizePolicy().hasHeightForWidth());
@@ -324,6 +326,7 @@ public:
         menubar->addAction(menuStyle->menuAction());
         menubar->addAction(menuHelp->menuAction());
         menuWindows->addAction(actionTemperature);
+        menuWindows->addAction(actionMucus);
         menuWindows->addAction(actionFeeling);
         menuWindows->addAction(actionObservationCervix);
         menuWindows->addAction(actionRemnant);
@@ -381,8 +384,8 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QApplication::translate("MainWindow", "Asystent NPR", 0, QApplication::UnicodeUTF8));
-        actionTemperature->setText(QApplication::translate("MainWindow", "Rodzaj \305\233luzu", 0, QApplication::UnicodeUTF8));
-        actionTemperature->setShortcut(QApplication::translate("MainWindow", "Ctrl+R", 0, QApplication::UnicodeUTF8));
+        actionMucus->setText(QApplication::translate("MainWindow", "Rodzaj \305\233luzu", 0, QApplication::UnicodeUTF8));
+        actionMucus->setShortcut(QApplication::translate("MainWindow", "Ctrl+R", 0, QApplication::UnicodeUTF8));
         actionFeeling->setText(QApplication::translate("MainWindow", "Odczucie nawil\305\274enia przedsionka pochwy", 0, QApplication::UnicodeUTF8));
         actionFeeling->setShortcut(QApplication::translate("MainWindow", "Ctrl+N", 0, QApplication::UnicodeUTF8));
         actionRemnant->setText(QApplication::translate("MainWindow", "Pozosta\305\202e oznaczenia", 0, QApplication::UnicodeUTF8));
@@ -406,7 +409,7 @@ public:
         actionPageSetting->setText(QApplication::translate("MainWindow", "Ustawienia strony", 0, QApplication::UnicodeUTF8));
         actionPageSetting->setShortcut(QApplication::translate("MainWindow", "Ctrl+U", 0, QApplication::UnicodeUTF8));
         actionAddPageTab->setText(QApplication::translate("MainWindow", "Dodaj", 0, QApplication::UnicodeUTF8));
-        actionAddPageTab->setShortcut(QApplication::translate("MainWindow", "Ctrl+T", 0, QApplication::UnicodeUTF8));
+        actionAddPageTab->setShortcut(QApplication::translate("MainWindow", "Ctrl+Z", 0, QApplication::UnicodeUTF8));
         actionClosePageTab->setText(QApplication::translate("MainWindow", "Zamknij", 0, QApplication::UnicodeUTF8));
         actionClosePageTab->setShortcut(QApplication::translate("MainWindow", "Ctrl+W", 0, QApplication::UnicodeUTF8));
         actionPrintPreviews->setText(QApplication::translate("MainWindow", "Podgl\304\205d wydruk\303\263w", 0, QApplication::UnicodeUTF8));
@@ -437,6 +440,8 @@ public:
         actionPlastiqueStyle->setText(QApplication::translate("MainWindow", "Plastique", 0, QApplication::UnicodeUTF8));
         actionWindowsNormalStyle->setText(QApplication::translate("MainWindow", "Windows", 0, QApplication::UnicodeUTF8));
         actionSaveAs->setText(QApplication::translate("MainWindow", "Zapisz jako", 0, QApplication::UnicodeUTF8));
+        actionTemperature->setText(QApplication::translate("MainWindow", "Temperatura", 0, QApplication::UnicodeUTF8));
+        actionTemperature->setShortcut(QApplication::translate("MainWindow", "Ctrl+T", 0, QApplication::UnicodeUTF8));
         tabWidget->setTabText(tabWidget->indexOf(pageTab1), QApplication::translate("MainWindow", "Zak\305\202adka 1", 0, QApplication::UnicodeUTF8));
         menuWindows->setTitle(QApplication::translate("MainWindow", "Okna", 0, QApplication::UnicodeUTF8));
         menuSettings->setTitle(QApplication::translate("MainWindow", "Ustawienia", 0, QApplication::UnicodeUTF8));

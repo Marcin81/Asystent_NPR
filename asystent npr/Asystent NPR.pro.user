@@ -563,52 +563,195 @@
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep0</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep1</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep10</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep11</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep12</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <valuelist key="abstractProcess.arguments" type="QVariantList">
     <value type="QString">qmydecompressor.h</value>
     <value type="QString">-o</value>
     <value type="QString">moc_qmydecompressor.cpp</value>
    </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep13</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr/Asystent NPR.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">macx-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug_and_release</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep14</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">debug</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
    <valuelist key="makeargs" type="QVariantList">
     <value type="QString">debug</value>
    </valuelist>
@@ -618,56 +761,200 @@
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep2</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep3</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep4</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep5</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep6</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep7</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep8</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
   <variable>buildconfiguration-qt4.6beta_static_release Debug-buildstep9</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-f6c4Ta/Render</value>
+    <value type="QString">COMMAND_MODE=legacy</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-d8Lg0m/:0</value>
+    <value type="QString">HOME=/Users/marcinbrysz</value>
+    <value type="QString">LOGNAME=marcinbrysz</value>
+    <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
+    <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-eDoudV/Listeners</value>
+    <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
+    <value type="QString">USER=marcinbrysz</value>
+    <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
+   </valuelist>
    <value key="abstractProcess.command" type="QString"></value>
+   <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
   </valuemap>
  </data>
  <data>
@@ -685,15 +972,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -714,15 +1004,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -743,15 +1036,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -772,15 +1068,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -801,15 +1100,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -822,6 +1124,7 @@
    <value key="abstractProcess.command" type="QString">/Users/marcinbrysz/zrodla/qt_4.6Beta_static_release/bin/moc</value>
    <value key="abstractProcess.enabled" type="bool">true</value>
    <value key="abstractProcess.workingDirectory" type="QString">/Users/marcinbrysz/programowanie/Qt 4.5/asystent npr</value>
+   <value key="workingDirectory" type="QString">$BUILDDIR</value>
   </valuemap>
  </data>
  <data>
@@ -829,15 +1132,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -863,15 +1169,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -894,15 +1203,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -923,15 +1235,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -952,15 +1267,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -981,15 +1299,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -1010,15 +1331,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -1039,15 +1363,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -1068,15 +1395,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -1097,15 +1427,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -1126,15 +1459,18 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">qt4.6beta_static_release Release</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-F5kHy9/Render</value>
+    <value type="QString">Apple_PubSub_Socket_Render=/tmp/launch-TbtA2D/Render</value>
     <value type="QString">COMMAND_MODE=legacy</value>
-    <value type="QString">DISPLAY=/tmp/launch-7UmIsg/:0</value>
+    <value type="QString">DAZSTUDIO=/Users/marcinbrysz/Documents/DAZ 3D/Studio3</value>
+    <value type="QString">DAZSTUDIOVERSION_3=50332048</value>
+    <value type="QString">DAZSTUDIO_3=/Applications/DAZ 3D/DAZStudio3</value>
+    <value type="QString">DISPLAY=/tmp/launch-wOJJnK/:0</value>
     <value type="QString">HOME=/Users/marcinbrysz</value>
     <value type="QString">LOGNAME=marcinbrysz</value>
     <value type="QString">PATH=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin:/usr/bin:/bin:/usr/sbin:/sbin</value>
     <value type="QString">QTDIR=/Users/marcinbrysz/zrodla/qt_4.5.2_static_release</value>
     <value type="QString">SHELL=/bin/bash</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-41vPPt/Listeners</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/launch-FR418Z/Listeners</value>
     <value type="QString">TMPDIR=/var/folders/iE/iE2vk5+7EqC3fE-QBPKO8++++TI/-Tmp-/</value>
     <value type="QString">USER=marcinbrysz</value>
     <value type="QString">__CF_USER_TEXT_ENCODING=0x1F5:29:42</value>
@@ -1852,6 +2188,7 @@
   <variable>buildconfiguration-release_4.6_win-buildstep12</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">release_4.6_win</value>
+   <value key="abstractProcess.command" type="QString"></value>
   </valuemap>
  </data>
  <data>

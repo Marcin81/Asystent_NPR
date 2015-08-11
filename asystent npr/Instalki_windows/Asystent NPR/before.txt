@@ -1,0 +1,5 @@
+"Asystent NPR" to program przeznaczony do wspomagania naturalnego planowania rodziny.
+Pomaga on prowadziæ obserwacje termiczno-objawow¹ oraz interpretowaæ wyniki tej obserwacji.
+Pozwala okreœliæ okresy wzglêdnej niep³odnoœci, p³odnoœci oraz niep³odnoœci.
+Posiada intuicyjny interface, mo¿liwoœæ zapisu i odczytu wykresów oraz drukowanie i eksport do wydruków do formatu pdf. Umo¿liwia równie¿ pracê z wieloma zak³adkami.
+Aplikacja pracuje w jêzyku polskim lub angielskim.

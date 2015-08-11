@@ -41,12 +41,32 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Autor: Marcin Brysz&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;E-mail: &lt;/span&gt;&lt;a href=&quot;unemployed81@gmail.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;unemployed81@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; text-decoration: underline; color:#0000ff;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Lucida Grande&apos;; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/images/Berry.png&quot; /&gt;&lt;span style=&quot; font-size:24pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:24pt; font-weight:600; font-style:italic;&quot;&gt;Asystent NPR&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Wersja: 1.3 Beta&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Autor: Marcin Brysz&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;E-mail: &lt;/span&gt;&lt;a href=&quot;unemployed81@gmail.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;unemployed81@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; text-decoration: underline; color:#0000ff;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Lucida Grande&apos;; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/images/Berry.png&quot; /&gt;&lt;span style=&quot; font-size:24pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:24pt; font-weight:600; font-style:italic;&quot;&gt;Asystent NPR&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Wersja: 1.4 Beta&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Autor: Marcin Brysz&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;E-mail: &lt;/span&gt;&lt;a href=&quot;unemployed81@gmail.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;unemployed81@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; text-decoration: underline; color:#0000ff;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Lucida Grande&apos;; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/images/Berry.png&quot; /&gt;&lt;span style=&quot; font-size:24pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:24pt; font-weight:600; font-style:italic;&quot;&gt;Asystent NPR&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Wersja: 1.4 Beta&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Autor: Marcin Brysz&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;E-mail: &lt;/span&gt;&lt;a href=&quot;unemployed81@gmail.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;unemployed81@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; text-decoration: underline; color:#0000ff;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -370,6 +390,14 @@ p, li { white-space: pre-wrap; }
         <source>Okres pÅodnoÅci</source>
         <translation>Okres płodności</translation>
     </message>
+    <message>
+        <source>Ctrl+Z</source>
+        <translation>Ctrl+Z</translation>
+    </message>
+    <message>
+        <source>Temperatura</source>
+        <translation>Temperatura</translation>
+    </message>
 </context>
 <context>
     <name>MyWindow</name>
@@ -554,7 +582,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Wersja 1.0 beta</source>
-        <translation>Wersja 1.0 beta</translation>
+        <translation type="obsolete">Wersja 1.4 beta</translation>
     </message>
     <message>
         <source>:/images/CyanFull.png</source>
@@ -630,7 +658,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Temperatura w ustach</source>
-        <translation type="obsolete">Temperatura w ustach</translation>
+        <translation>Temperatura w ustach</translation>
     </message>
     <message>
         <source>:/images/thermometer-48x48.png</source>
@@ -642,7 +670,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Temperatura w pochwie</source>
-        <translation type="obsolete">Temperatura w pochwie</translation>
+        <translation>Temperatura w pochwie</translation>
     </message>
     <message>
         <source>Temperature in vagina</source>
@@ -650,7 +678,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Temperatura w odbycie</source>
-        <translation type="obsolete">Temperatura w odbycie</translation>
+        <translation>Temperatura w odbycie</translation>
     </message>
     <message>
         <source>Temperature in anus</source>
@@ -658,7 +686,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Uczucie suchości</source>
-        <translation type="obsolete">Uczucie suchości</translation>
+        <translation>Uczucie suchości</translation>
     </message>
     <message>
         <source>:/images/BlankYellow48.png</source>
@@ -694,7 +722,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Napięcie powierzchniowe piersi</source>
-        <translation type="obsolete">Napięcie powierzchniowe piersi</translation>
+        <translation>Napięcie powierzchniowe piersi</translation>
     </message>
     <message>
         <source>:/images/BlankBlue48.png</source>
@@ -706,7 +734,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Inna godzina pomiaru</source>
-        <translation type="obsolete">Inna godzina pomiaru</translation>
+        <translation>Inna godzina pomiaru</translation>
     </message>
     <message>
         <source>:/images/Berry.png</source>
@@ -718,7 +746,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Zmęczenie</source>
-        <translation type="obsolete">Zmęczenie</translation>
+        <translation>Zmęczenie</translation>
     </message>
     <message>
         <source>:/images/I-am-tired-48x48.png</source>
@@ -730,7 +758,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Migrena</source>
-        <translation type="obsolete">Migrena</translation>
+        <translation>Migrena</translation>
     </message>
     <message>
         <source>:/images/Sweet-angel.png</source>
@@ -742,7 +770,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Ból brzucha</source>
-        <translation type="obsolete">Ból brzucha</translation>
+        <translation>Ból brzucha</translation>
     </message>
     <message>
         <source>:/images/follow-the-sign-48x48.png</source>
@@ -754,7 +782,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Upławy</source>
-        <translation type="obsolete">Upławy</translation>
+        <translation>Upławy</translation>
     </message>
     <message>
         <source>:/images/Pudently.png</source>
@@ -766,7 +794,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Współżycie</source>
-        <translation type="obsolete">Współżycie</translation>
+        <translation>Współżycie</translation>
     </message>
     <message>
         <source>:/images/ThumbsUp.png</source>
@@ -778,7 +806,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Pozostałość nasienia</source>
-        <translation type="obsolete">Pozostałość nasienia</translation>
+        <translation>Pozostałość nasienia</translation>
     </message>
     <message>
         <source>:/images/Whoa-48x48.png</source>
@@ -790,7 +818,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Biegunka</source>
-        <translation type="obsolete">Biegunka</translation>
+        <translation>Biegunka</translation>
     </message>
     <message>
         <source>:/images/ate-someting-bad-48x48.png</source>
@@ -802,7 +830,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Choroba</source>
-        <translation type="obsolete">Choroba</translation>
+        <translation>Choroba</translation>
     </message>
     <message>
         <source>:/images/h3_48.png</source>
@@ -814,7 +842,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Gorączka</source>
-        <translation type="obsolete">Gorączka</translation>
+        <translation>Gorączka</translation>
     </message>
     <message>
         <source>:/images/Sick.png</source>
@@ -826,7 +854,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Niedobór snu</source>
-        <translation type="obsolete">Niedobór snu</translation>
+        <translation>Niedobór snu</translation>
     </message>
     <message>
         <source>:/images/feel-sick-48x48.png</source>
@@ -838,7 +866,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Zmiana klimatu</source>
-        <translation type="obsolete">Zmiana klimatu</translation>
+        <translation>Zmiana klimatu</translation>
     </message>
     <message>
         <source>:/images/Cool.png</source>
@@ -850,7 +878,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Szyjka zamknięta</source>
-        <translation type="obsolete">Szyjka zamknięta</translation>
+        <translation>Szyjka zamknięta</translation>
     </message>
     <message>
         <source>:/images/Mr.Zhong-cute-s_48.png</source>
@@ -862,7 +890,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Szyjka otwarta</source>
-        <translation type="obsolete">Szyjka otwarta</translation>
+        <translation>Szyjka otwarta</translation>
     </message>
     <message>
         <source>:/images/Mr.Zhong-laughing-s_48.png</source>
@@ -874,7 +902,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Szyjka opuszczona</source>
-        <translation type="obsolete">Szyjka opuszczona</translation>
+        <translation>Szyjka opuszczona</translation>
     </message>
     <message>
         <source>:/images/Mr.Zhong-punished-s_48.png</source>
@@ -886,7 +914,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Szyjka uniesiona</source>
-        <translation type="obsolete">Szyjka uniesiona</translation>
+        <translation>Szyjka uniesiona</translation>
     </message>
     <message>
         <source>:/images/Mr.Zhong-suffering-s_48.png</source>
@@ -898,7 +926,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Szyjka twarda</source>
-        <translation type="obsolete">Szyjka twarda</translation>
+        <translation>Szyjka twarda</translation>
     </message>
     <message>
         <source>:/images/Mr.Zhong-huffy-s_48.png</source>
@@ -910,7 +938,7 @@ Czy chcesz zapisać zmiany?</translation>
     </message>
     <message utf8="true">
         <source>Szyjka miękka</source>
-        <translation type="obsolete">Szyjka miękka</translation>
+        <translation>Szyjka miękka</translation>
     </message>
     <message>
         <source>:/images/Mr.Zhong-awkward-s_48.png</source>
@@ -919,6 +947,10 @@ Czy chcesz zapisać zmiany?</translation>
     <message>
         <source>szyjka_miekka</source>
         <translation type="obsolete">szyjka_miekka</translation>
+    </message>
+    <message>
+        <source>Wersja 1.4 beta</source>
+        <translation>Wersja 1.4 beta</translation>
     </message>
 </context>
 <context>

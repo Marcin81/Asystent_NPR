@@ -17,9 +17,17 @@ HideToolWindow::HideToolWindow( const std::list< boost::tuple< QString, QString,
     mFont( "Verdana", 14 ),
     mTitle( title )
 {
+  mFont.setStyleStrategy( QFont::PreferQuality );
+  mFont.setStyle( QFont::StyleNormal );
+  mFont.setWeight( QFont::Normal );
+  mFont.setBold( false );
+  mFont.setItalic( false );
   drag = new DragWidget( this );
   typedef boost::tuple< QString, QString, QString > Tup3;
 
+  #ifndef Q_WS_MAC
+  mFont.setPointSize(8);
+  #endif
   BOOST_FOREACH( Tup3 tup , pointNames )
     drag->addLabels( tup.get<0>(), tup.get<1>(), tup.get<2>(), mFont );
 

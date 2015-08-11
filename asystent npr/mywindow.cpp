@@ -14,8 +14,10 @@ Version: 1.3 Beta
 #include "interpretationbytemperature.h"
 #include "imagepoint.h"
 #include "ui_about.h"
-//#include "qzipdecompressor.h"
+#ifndef Q_WS_WIN
+#include "qzipdecompressor.h"
 #include "qtarbzip2decompressor.h"
+#endif
 #include <QtWebKit/QWebView>
 #include <QtGui/QStyleFactory>
 #include <boost/foreach.hpp>
@@ -41,6 +43,7 @@ MyWindow::MyWindow( const QStringList& temperatures,  QTranslator& qtTranslator,
 #ifdef Q_WS_WIN
   group->addAction( mMainWindow->actionWindowsVistaStyle );
   group->addAction( mMainWindow->actionWindowsXPStyle );
+  group->addAction( mMainWindow->actionWindowsNormalStyle );
   mMainWindow->actionWindowsNormalStyle->setVisible( true );
   mMainWindow->actionWindowsXPStyle->setVisible( true );
   mMainWindow->actionWindowsVistaStyle->setVisible( true );
@@ -63,8 +66,9 @@ MyWindow::MyWindow( const QStringList& temperatures,  QTranslator& qtTranslator,
   
   const QString styleName = QApplication::style()->objectName();
   if( styleName != trUtf8( "macintosh (aqua)" ) ) {
-    MyWindow::changeStyle( "plastique" );
+    MyWindow::changeStyle( "Plastique" );
     mMainWindow->actionPlastiqueStyle->setChecked( true );
+    QApplication::setPalette( QApplication::style()->standardPalette() );
   } else {
      mMainWindow->actionMacStyle->setChecked( true );
   }
@@ -138,14 +142,20 @@ MyWindow::MyWindow( const QStringList& temperatures,  QTranslator& qtTranslator,
     mMainWindow->actionPolishLanguage->setChecked(true);
   else
     mMainWindow->actionEnglishLanguage->setChecked(true);
+
   //--------------------------------------------------------------------
-	connect(mMainWindow->actionHelp, SIGNAL(triggered() ), this, SLOT( help() ) );
-	//--------------------------------------------------------------------
+#ifndef Q_WS_WIN
+  connect(mMainWindow->actionHelp, SIGNAL(triggered() ), this, SLOT( help() ) );
+#else
+  connect( mMainWindow->actionHelp, SIGNAL(triggered()), this, SLOT(showHelpAssistant()));
+#endif
+  //--------------------------------------------------------------------
   QRect geo = QApplication::desktop()->geometry();
   const int heighFive = QApplication::desktop()->height() / 5;
   geo.setHeight( geo.height() - heighFive );
   geo.setY(70);
   setGeometry( geo );
+  setObjectName(QString::fromUtf8( "MyWindow" ) );
 }
 
 MyWindow::~MyWindow()
@@ -186,7 +196,7 @@ void MyWindow::changeStyle()
   } // if
   
 }
-					
+#ifndef Q_WS_WIN
 void MyWindow::help()
 {
 	mMainWindow->actionHelp->setEnabled(false);
@@ -235,7 +245,7 @@ void MyWindow::help()
 	pd.setValue( 5 );
 	//---------------------------------------------------
 }
-
+#endif
 void MyWindow::showHelpAssistant()
 {
 	QMainWindow* helpWin = new QMainWindow;
@@ -257,7 +267,7 @@ void MyWindow::showHelpAssistant()
   webView->load( QUrl::fromLocalFile( path ) );
   helpWin->show();
 }
-
+#ifndef Q_WS_WIN
 void MyWindow::deleteThread()
 {
   if( mArchDep ) {
@@ -282,7 +292,7 @@ void MyWindow::showHelpDecompressError()
               "\n(Problem z dekompresją zasobów)." ) );
 		showHelpAction();
 }
-
+#endif
 // obrazki ktore nie sa wyswietlane to jpeg!, trzeba zbudowac i zlinkowac z jpeg
 void MyWindow::updateTranslation()
 {
@@ -311,7 +321,7 @@ void MyWindow::updateTranslation()
 
   //--------- Update app ----------------
   qApp->setApplicationName( QObject::trUtf8( "Asystent NPR" ) );
-  qApp->setApplicationVersion( QObject::trUtf8( "Wersja 1.0 beta" ) );
+  qApp->setApplicationVersion( QObject::trUtf8( "Wersja 1.4 beta" ) );
   //--------- Update menu ---------------
   mMainWindow->retranslateUi( this );
   mMainWindow->tabWidget->setLocale( locOK );

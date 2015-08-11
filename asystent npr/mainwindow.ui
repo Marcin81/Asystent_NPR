@@ -495,6 +495,7 @@
      <string>Okna</string>
     </property>
     <addaction name="actionTemperature"/>
+    <addaction name="actionMucus"/>
     <addaction name="actionFeeling"/>
     <addaction name="actionObservationCervix"/>
     <addaction name="actionRemnant"/>
@@ -593,7 +594,7 @@
    <addaction name="menuHelp"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="actionTemperature">
+  <action name="actionMucus">
    <property name="checkable">
     <bool>true</bool>
    </property>
@@ -724,7 +725,7 @@
     <string>Dodaj</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+T</string>
+    <string>Ctrl+Z</string>
    </property>
   </action>
   <action name="actionClosePageTab">
@@ -937,6 +938,17 @@
    </property>
    <property name="text">
     <string>Zapisz jako</string>
+   </property>
+  </action>
+  <action name="actionTemperature">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Temperatura</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+T</string>
    </property>
   </action>
  </widget>

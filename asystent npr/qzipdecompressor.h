@@ -6,7 +6,7 @@
  *  Copyright 2009 Marcin Brysz. All rights reserved.
  *
  */
-/*
+ /*
 License: GPL 
 Owner: Marcin Brysz
 Contact: unemployed81@gmail.com / bryszmarcin@gmail.com

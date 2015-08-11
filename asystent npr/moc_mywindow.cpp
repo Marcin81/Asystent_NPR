@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'mywindow.h'
 **
-** Created: Tue Oct 27 10:27:14 2009
+** Created: Tue Nov 10 23:43:10 2009
 **      by: The Qt Meta Object Compiler version 62 (Qt 4.6.0)
 **
 ** WARNING! All changes made in this file will be lost!
@@ -47,7 +47,7 @@ static const uint qt_meta_data_MyWindow[] = {
      153,    9,    9,    9, 0x09,
      168,    9,    9,    9, 0x09,
      188,    9,    9,    9, 0x09,
-     202,    9,    9,    9, 0x09,
+     208,    9,    9,    9, 0x09,
      222,    9,    9,    9, 0x09,
      241,    9,    9,    9, 0x09,
      258,    9,    9,    9, 0x0a,
@@ -88,7 +88,7 @@ static const char qt_meta_stringdata_MyWindow[] = {
     "showAboutAction()\0updateTranslation()\0"
     "showHelpAction()\0showHelpDecompressError()\0"
     "deleteThread()\0deleteHelpArchive()\0"
-    "changeStyle()\0showHelpAssistant()\0"
+    "showHelpAssistant()\0changeStyle()\0"
     "showLanguageMenu()\0updateTabTitle()\0"
     "zoomIn()\0zoomOut()\0isSaveUs\0save(bool)\0"
     "save()\0saveAs()\0load()\0pageSetup()\0"
@@ -144,8 +144,8 @@ int MyWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
         case 6: showHelpDecompressError(); break;
         case 7: deleteThread(); break;
         case 8: deleteHelpArchive(); break;
-        case 9: changeStyle(); break;
-        case 10: showHelpAssistant(); break;
+        case 9: showHelpAssistant(); break;
+        case 10: changeStyle(); break;
         case 11: showLanguageMenu(); break;
         case 12: updateTabTitle(); break;
         case 13: zoomIn(); break;
